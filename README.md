@@ -18,10 +18,10 @@ AI Automation Engineer | AI Business Automation Engineer | GTM Engineer | Revenu
 
 ## Proof Points
 
-- Building an AI command center that connects SYSPRO ERP, HubSpot, Unipoint QC, SQL Server, and Qdrant.
+- Building an AI command center that connects ERP, HubSpot CRM, QC systems, SQL Server, and Qdrant.
 - Led HubSpot Sales and Marketing Hub migration with training and adoption across the sales organization.
-- Migrated about 50 legacy Crystal Reports into a consolidated reporting layer.
-- Digitized QC workflows through Unipoint TQM, tablets, scanners, procedures, and training.
+- Migrated legacy Crystal Reports into a consolidated reporting layer.
+- Digitized QC workflows through a TQM/quality system, tablets, scanners, procedures, and training.
 
 ## Portfolio Projects
 
