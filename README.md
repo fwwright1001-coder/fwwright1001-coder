@@ -18,7 +18,7 @@ I set up business systems and get their users working in them. The work I'm best
 
 ## Side project
 
-[weekend-road-trip](https://github.com/fwwright1001-coder/weekend-road-trip) ([live demo](https://weekend-road-trip-forrestw200.vercel.app)): a browser road-trip game set in Nashville, my ENGR 5513 (Applied AI in Engineering) class project at Lipscomb University, Summer 2026. An AI-directed build with automated tests on every change.
+[weekend-road-trip](https://github.com/fwwright1001-coder/weekend-road-trip) ([live demo](https://weekend-road-trip-forrestw200.vercel.app)): a browser road-trip game set in Nashville, my ENGR 5513 (Applied AI in Engineering) class project at Lipscomb University. An AI-directed build with automated tests on every change.
 
 ## Education and certifications
 
