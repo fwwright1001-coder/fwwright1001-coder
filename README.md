@@ -1,45 +1,32 @@
 # Forrest Wright
 
-**AI Implementation Consultant — internal AI, GTM/revenue systems, and applied-AI builds over ERP, CRM, and QC data**
+**Business Systems Analyst** · Nashville, TN · Open to contract and contract-to-hire
 
-Operations professional completing an **M.S. in Applied Artificial Intelligence** at Lipscomb University (graduate certificate expected Dec 2026; M.S. expected 2027). I design and integrate internal AI and data systems — architecting the solution, directing AI coding tools to build it, then debugging and verifying it end to end. Focused on RAG, automation workflows, SQL-backed systems, HubSpot/revenue operations, and ERP/QC data.
+I set up business systems and get their users working in them. The work I'm best at is building the systems that get the right information to the people who run the business.
 
-## Featured Project — Weekend Road Trip
+## Three rollouts at Com-Pac International
 
-Full-stack browser game — public, live, and CI-tested:
+- **UniPoint QMS** - Quality Control Project Coordinator, Jan 2018 – Aug 2021. Moved medical packaging quality control from paper to UniPoint: reviewed the specs for about 800 products, got each one approved, set them up in the first year, and trained the 8-person QC team. Worked with the plant manager to tighten quality specs; the plant manager signed off on about $500K in savings.
+- **HubSpot CRM** - Sales Operations Coordinator, May 2023 – Nov 2025. Implemented HubSpot for the sales team: contacts migrated from SYSPRO ERP exports, 10 hands-on training sessions, full team adoption within 2 months.
+- **AI reporting platform** - AI Implementation Consultant (Remote), Nov 2025 – Current. An AI-directed build: I designed it, directed AI coding tools to build it, and verified it end to end. 15 recurring reports on SYSPRO ERP data for ownership and department leads; the daily inventory valuation matched the ERP's own reports to the penny in its July 2026 acceptance test. Its daily safety-stock report replaced the purchasing manager's manual check of about 2 to 4 hours a day and is used every day.
 
-- **Front end:** vanilla JavaScript + HTML5 Canvas (no framework), built with accessibility support.
-- **Back end:** Vercel serverless API + Neon Postgres.
-- **CI:** GitHub Actions runs a deterministic balance simulation, DOM smoke tests, and API contract tests on every push.
+## Skills
 
-[Live demo](https://weekend-road-trip-forrestw200.vercel.app) · [Repo](https://github.com/fwwright1001-coder/weekend-road-trip)
+- **Business analysis:** refining requirements through end-user feedback · testing system setup with end users · end-user training · project coordination
+- **Systems:** HubSpot CRM (implementation, administration, workflows, dashboards) · UniPoint QMS · SYSPRO ERP (reporting on its data) · Crystal Reports (inventory of 107 reports; conversion toward Power BI) · Excel (AI-assisted)
+- **AI:** Anthropic Claude · AI-directed builds · SQL literacy
 
-## What I Build
+## Side project
 
-- Internal AI platform across Claude API, RAG, Qdrant, SQL Server, and ERP/CRM/QC data.
-- HubSpot implementation and revenue-operations workflow design.
-- Manufacturing operations and QC implementation, training, change management, and reporting.
-- Lean Six Sigma quality-process redesign; paper-to-digital QC conversion.
+[weekend-road-trip](https://github.com/fwwright1001-coder/weekend-road-trip) ([live demo](https://weekend-road-trip-forrestw200.vercel.app)): a browser road-trip game set in Nashville, my ENGR 5513 (Applied AI in Engineering) class project at Lipscomb University, Summer 2026. An AI-directed build with automated tests on every change.
 
-## Proof Points
+## Education and certifications
 
-- Building an internal AI platform that connects ERP, HubSpot CRM, QC systems, SQL Server, and Qdrant on the Anthropic Claude API.
-- Led a HubSpot Sales & Marketing Hub rollout for the sales team, with hands-on training and adoption.
-- Consolidated legacy Crystal Reports into a unified, maintainable reporting layer.
-- Digitized QC workflows into a quality system (tablets, scanners, procedures, training).
+- Master of Science in Applied Artificial Intelligence, Lipscomb University, Nashville, TN, expected May 2027 · BBA in Business Management: Strategic Entrepreneurship, Texas Tech University, Lubbock, TX, May 2021 · Associate of Arts, John A. Logan College
+- Lean Six Sigma Green Belt (Purdue University) · HubSpot Academy
 
-## Education & Certifications
+## Get in touch
 
-- **Lipscomb University** — M.S., Applied Artificial Intelligence (in progress; graduate certificate expected Dec 2026, M.S. expected 2027)
-- **Texas Tech University** — BBA, Business Management: Strategic Entrepreneurship
-- Lean Six Sigma Green Belt (Purdue) · HubSpot Academy certification
+If you are hiring a Business Systems Analyst or Project Coordinator, I would be glad to hear from you.
 
-## A Note on Private Work
-
-Some employer work is private. I describe those systems only through sanitized architecture, workflow, and implementation patterns — the internal AI platform above is discussed at that level.
-
-## Target Roles
-
-Technical Implementation Consultant · GTM & Revenue Systems (RevOps) · Solutions Engineer / Consultant · AI Enablement · Applied AI Engineer
-
-Remote (US) or Nashville, TN.
+[LinkedIn](https://www.linkedin.com/in/forrest-wright) · [Portfolio](https://fwwright1001-coder.github.io) · forrestwright1001@gmail.com
