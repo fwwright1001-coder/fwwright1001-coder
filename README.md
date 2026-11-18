@@ -17,19 +17,20 @@ My platform experience includes HubSpot CRM, UniPoint QMS, SYSPRO ERP reporting,
 
 ## Selected work
 
-- **AI reporting:** designed an internal ERP/CRM reporting platform and directed its development with AI coding tools. It delivered 15 recurring reports. A July 2026 inventory acceptance test matched the ERP report to the penny; an automated safety-stock report replaced a daily manual check that previously took about two to four hours.
-- **HubSpot CRM:** implemented the system, migrated contacts and led 10 hands-on training sessions, achieving full sales-team adoption within two months.
-- **UniPoint QMS:** moved medical packaging quality control from paper to digital workflows, configured about 800 approved product specifications and trained eight users. The plant manager signed off on about $500K in savings from quality-specification improvements we worked on together.
+- **[AI reporting](https://fwwright1001-coder.github.io/#ai-reporting):** designed an internal ERP/CRM reporting platform and directed its development with AI coding tools. It delivered 15 recurring reports. A July 2026 inventory acceptance test matched the ERP report to the penny; an automated safety-stock report replaced a daily manual check that previously took about two to four hours.
+- **[HubSpot CRM](https://fwwright1001-coder.github.io/#hubspot-crm):** implemented the system, migrated contacts and led 10 hands-on training sessions, achieving full sales-team adoption within two months.
+- **[UniPoint QMS](https://fwwright1001-coder.github.io/#unipoint-qms):** moved medical packaging quality control from paper to digital workflows, configured about 800 approved product specifications and trained eight users. The plant manager signed off on about $500K in savings from quality-specification improvements we worked on together.
 
 These are historical project outcomes. My employer's systems and data are confidential; I can discuss my contribution, design decisions, validation approach and lessons.
 
 ## Education
 
-- **M.S. in Applied Artificial Intelligence**, Lipscomb University — in progress, expected May 2027.
-- **BBA in Business Management: Strategic Entrepreneurship**, Texas Tech University — May 2021.
-- **Associate of Arts**, John A. Logan College.
+- **M.S. in Applied Artificial Intelligence**, Lipscomb University — January 2026–present; expected completion May 2027.
+- **BBA in Business Management: Strategic Entrepreneurship**, Texas Tech University — August 2018–May 2021.
+- **Associate of Arts**, John A. Logan College — completed 2016.
 - **Lean Six Sigma Green Belt**, Purdue University.
 
 I am interested in practical AI implementation and digital-product delivery in healthcare technology.
 
 [Portfolio](https://fwwright1001-coder.github.io/) · [LinkedIn](https://www.linkedin.com/in/forrest-wright/) · [Email](mailto:forrestwright1001@gmail.com)
+
