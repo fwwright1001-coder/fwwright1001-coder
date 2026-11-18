@@ -32,5 +32,6 @@ These are historical project outcomes. My employer's systems and data are confid
 
 I am interested in practical AI implementation and digital-product delivery in healthcare technology.
 
-[Portfolio](https://fwwright1001-coder.github.io/) · [LinkedIn](https://www.linkedin.com/in/forrest-wright/) · [Email](mailto:forrestwright1001@gmail.com)
+[Resume (PDF)](https://fwwright1001-coder.github.io/assets/Forrest_Wright_Resume.pdf) · [Portfolio](https://fwwright1001-coder.github.io/) · [LinkedIn](https://www.linkedin.com/in/forrest-wright/) · [Email](mailto:forrestwright1001@gmail.com)
+
 
