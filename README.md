@@ -1,32 +1,35 @@
 # Forrest Wright
 
-**Business Systems Analyst** · Nashville, TN · Open to contract and contract-to-hire
+**AI Implementation Coordinator at Com-Pac International**  
+**M.S. student in Applied Artificial Intelligence · Lipscomb University · Expected May 2027**  
+Nashville, Tennessee
 
-I set up business systems and get their users working in them. The work I'm best at is building the systems that get the right information to the people who run the business.
+I turn operational needs into systems people can use, validate the results, and help teams adopt them. My experience spans AI reporting, CRM implementation and digital quality workflows.
 
-## Three rollouts at Com-Pac International
+## Skills I bring to a project
 
-- **UniPoint QMS** - Quality Control Project Coordinator, Jan 2018 – Aug 2021. Moved medical packaging quality control from paper to UniPoint: reviewed the specs for about 800 products, got each one approved, set them up in the first year, and trained the 8-person QC team. Worked with the plant manager to tighten quality specs; the plant manager signed off on about $500K in savings.
-- **HubSpot CRM** - Sales Operations Coordinator, May 2023 – Nov 2025. Implemented HubSpot for the sales team: contacts migrated from SYSPRO ERP exports, 10 hands-on training sessions, full team adoption within 2 months.
-- **AI reporting platform** - AI Implementation Consultant (Remote), Nov 2025 – Current. An AI-directed build: I designed it, directed AI coding tools to build it, and verified it end to end. 15 recurring reports on SYSPRO ERP data for ownership and department leads; the daily inventory valuation matched the ERP's own reports to the penny in its July 2026 acceptance test. Its daily safety-stock report replaced the purchasing manager's manual check of about 2 to 4 hours a day and is used every day.
+- **AI implementation:** solution design, development directed with AI coding tools, and end-to-end verification.
+- **Workflow improvement:** requirements refinement, system configuration, data migration and process documentation.
+- **Data validation:** operational reporting, reconciliation against trusted records, read-only access controls and audit logging.
+- **User adoption:** testing with end users, incorporating feedback and hands-on training.
 
-## Skills
+My platform experience includes HubSpot CRM, UniPoint QMS, SYSPRO ERP reporting, Crystal Reports and Power Query. I used SQL Server and Python in an AI-assisted platform build.
 
-- **Business analysis:** refining requirements through end-user feedback · testing system setup with end users · end-user training · project coordination
-- **Systems:** HubSpot CRM (implementation, administration, workflows, dashboards) · UniPoint QMS · SYSPRO ERP (reporting on its data) · Crystal Reports (inventory of 107 reports; conversion toward Power BI) · Excel (AI-assisted)
-- **AI:** Anthropic Claude · AI-directed builds · SQL literacy
+## Selected work
 
-## Side project
+- **AI reporting:** designed an internal ERP/CRM reporting platform and directed its development with AI coding tools. It delivered 15 recurring reports. A July 2026 inventory acceptance test matched the ERP report to the penny; an automated safety-stock report replaced a daily manual check that previously took about two to four hours.
+- **HubSpot CRM:** implemented the system, migrated contacts and led 10 hands-on training sessions, achieving full sales-team adoption within two months.
+- **UniPoint QMS:** moved medical packaging quality control from paper to digital workflows, configured about 800 approved product specifications and trained eight users. The plant manager signed off on about $500K in savings from quality-specification improvements we worked on together.
 
-[weekend-road-trip](https://github.com/fwwright1001-coder/weekend-road-trip) ([live demo](https://weekend-road-trip-forrestw200.vercel.app)): a browser road-trip game set in Nashville, my ENGR 5513 (Applied AI in Engineering) class project at Lipscomb University. An AI-directed build with automated tests on every change.
+These are historical project outcomes. My employer's systems and data are confidential; I can discuss my contribution, design decisions, validation approach and lessons.
 
-## Education and certifications
+## Education
 
-- Master of Science in Applied Artificial Intelligence, Lipscomb University, Nashville, TN, expected May 2027 · BBA in Business Management: Strategic Entrepreneurship, Texas Tech University, Lubbock, TX, May 2021 · Associate of Arts, John A. Logan College
-- Lean Six Sigma Green Belt (Purdue University) · HubSpot Academy
+- **M.S. in Applied Artificial Intelligence**, Lipscomb University — in progress, expected May 2027.
+- **BBA in Business Management: Strategic Entrepreneurship**, Texas Tech University — May 2021.
+- **Associate of Arts**, John A. Logan College.
+- **Lean Six Sigma Green Belt**, Purdue University.
 
-## Get in touch
+I am interested in practical AI implementation and digital-product delivery in healthcare technology.
 
-If you are hiring a Business Systems Analyst or Project Coordinator, I would be glad to hear from you.
-
-[LinkedIn](https://www.linkedin.com/in/forrest-wright) · [Portfolio](https://fwwright1001-coder.github.io) · forrestwright1001@gmail.com
+[Portfolio](https://fwwright1001-coder.github.io/) · [LinkedIn](https://www.linkedin.com/in/forrest-wright/) · [Email](mailto:forrestwright1001@gmail.com)
